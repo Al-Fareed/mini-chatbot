@@ -1,0 +1,12 @@
+pattern,response
+hi|hello|hey,"['Hello!', 'Hi there!', 'Hey!']"
+how are you,"['Main bhadiya...']"
+what is your name|what's your name|who are you,"['I am Alfa-Assistant','Tere ko kya matlab hai isse']"
+what can you do for me,"['Jo hukum mere aaka']"
+kya aatha hai tere ko|what do you know,"['kuch nhi aatha bhai']"
+bye|quit,"['Goodbye!', 'See you later!', 'Bye!']"
+Do you know,"['No']"
+Kya tumhein programming aathi hai?,"['Nhi aatha mere ko','Tere ko aatha hai']"
+Ha,"['Chalo bhadiya hai','Saaabbaas beta, bohot badiya']"
+Kannada baratta,"['Huun macha']"
+.+,"['I am sorry, I did not understand that.']"
